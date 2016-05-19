@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "EC509F77705DBC6BB48A75C1D6EE548DF79E76F0",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "EC509F77705DBC6BB48A75C1D6EE548DF79E76F0" : 0,
+    "EF611011ECFA41B38D467680C231C9B04A6421E7" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "0CE40BBE-DD7A-484E-A4F5-E98393F18040",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "EC509F77705DBC6BB48A75C1D6EE548DF79E76F0" : "Module%207\/",
+    "EF611011ECFA41B38D467680C231C9B04A6421E7" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Cars",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Cars.playground",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/ebresciano\/Module-7.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "EC509F77705DBC6BB48A75C1D6EE548DF79E76F0"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/ebresciano\/module-7.2.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "EF611011ECFA41B38D467680C231C9B04A6421E7"
+    }
+  ]
+}
