@@ -17,8 +17,6 @@ class Entry: Equatable {
     var dictionaryCopy: [String:AnyObject] {
         return [kTitle: title, kBodyText: bodyText, kTimeStamp: timeStamp ]}
         
-    
-    
     var title: String
     var bodyText: String
     var timeStamp: NSDate
